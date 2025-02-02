@@ -22,8 +22,7 @@ img {
     width: 250px;
     border: dashed #FFFFFF 10px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 div {
     min-height: 125px;
